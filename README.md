@@ -5,7 +5,7 @@
 
 This app displays skills learned at The Coding Bootcamp at UT Austin during week 12. The specific skills on display consist of back end server creation and data transmission. The exercise focused heavily on learning how to write and organize api routes to execute the needed funtions. 
 
-## Proided Info
+## Provided Info
 Important to note, the front end of this application was provided for this project. The files included can be found in the /public folder.
 
 ## Tech
